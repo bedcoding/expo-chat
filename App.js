@@ -21,6 +21,7 @@ const App = createAppContainer(navigator)
 export default App
 
 
+// 설치한 파일 목록
 // npm install react-navigation react-native-gesture-handler react-native-reanimated react-native-screens
 // npm i react-native-gifted-chat
 // react-navigation-stack
