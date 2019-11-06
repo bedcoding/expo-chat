@@ -26,3 +26,7 @@ export default App
 // npm i react-native-gifted-chat
 // react-navigation-stack
 // npm install firebase
+
+// 파이어베이스 세팅
+// https://console.firebase.google.com/
+// 데이터베이스 -> 실시간 데이터베이스 -> 규칙 -> ".read": true, ".write": true
